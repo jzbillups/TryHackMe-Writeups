@@ -25,7 +25,8 @@ Welcome to my technical portfolio. This repository will document my independent 
 ---
 
 ## 📜 Certifications & Education
-* **CompTIA CySA+** (Expected Feb 2026)
+* **CompTIA Security+** - (June 2026)
+* **NSA/DHS National Centers of Academic Excellence in Cyber Defense (CAE-CD)** - (May 2026)
 * **M.S. Computer Science (Cybersecurity)** - James Madison University (May 2026)
 * **B.S. Mathematics** - James Madison University (May 2022)
 
