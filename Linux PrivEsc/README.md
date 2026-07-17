@@ -20,3 +20,8 @@ This project explores standard privilege escalation methodologies within a Linux
 I first accessed the target machine via SSH using the low-privileged credentials provided for the initial user.
 ```bash
 ssh user@$box
+
+id
+```
+Ran id which output: uid=1000(user) gid=1000(user) groups=1000(user),24(cdrom),25(floppy),29(audio),30(dip),44(video),46(plugdev)
+
